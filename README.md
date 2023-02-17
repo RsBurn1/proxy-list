@@ -27,7 +27,13 @@
 ###### Previous version -> 22/07/2021 - 28/05/2022 | [ProxyBuilder 1.0](https://github.com/jetkai/ProxyBuilder)
 
 ## 📰About This Project & The Proxies
-This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies in -> **JSON**, **TXT**, **CSV**, **XML** & **YAML** format. No authentication is required when connecting to these proxies.
+This repository contains a free list of tested SOCKS4/5 & HTTP/S proxies.
+
+#### ✔️ Free to use & for educational purposes
+#### ✔️ 24/7 hourly updates (Committing since Jul-2021)
+#### ✔️ Supported list formats -> JSON / TXT / CSV / XML / YAML
+#### ✔️ No authentication is required when connecting any of these proxies 
+#### ✔️ Only confirmed working proxies are added to these lists, including the archive
 
 ## 👩‍💻Proxy Testing
 
