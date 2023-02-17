@@ -59,9 +59,20 @@ Microsoft Azure|Hong Kong|AS
     }
 ```
 
+## 🕵️Proxy Detection, Risk & Geolocation
+
+###### Proxy Detection/Risk is provided by [ProxyCheck.io - API](https://proxycheck.io/)
+
+###### Geolocation is provided by [GeoLite2 country database](https://www.maxmind.com)
+
+<img src="https://user-images.githubusercontent.com/26250917/219546484-78aed231-c28f-4d0a-8fb5-a0dd22cf8bc1.png" width="75%">
+
+
 ## 📝Proxy Formatting
 
-These proxies are scraped from various sources ([ProxyScraper](https://github.com/jetkai/proxy-scraper)) & I compile this data using my [ProxyBuilder](https://github.com/jetkai/proxy-builder-2) application. Proxies are sorted from lowest to highest 0-255 & duplicated proxies are removed — the only exception is if an IP has a different port open, which is also a working proxy tunnel <**Less than 1% of the total proxies at the time of testing**>.
+These proxies are scraped from various sources ([ProxyScraper](https://github.com/jetkai/proxy-scraper)) & I compile this data using my [ProxyBuilder](https://github.com/jetkai/proxy-builder-2) application. 
+
+Proxies are sorted from lowest to highest 0-255 & duplicated proxies are removed — the only exception is if an IP has a different port open, which is also a working proxy tunnel <**Less than 1% of the total proxies at the time of testing**>.
 
 ```IP:Port -> 1.0.132.249:4153```
 
