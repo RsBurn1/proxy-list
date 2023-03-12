@@ -115,27 +115,26 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 
 ---
 
-# [SAMPLE PROXIES] - [March 12 2023 | 12:50:08]
+# [SAMPLE PROXIES] - [March 12 2023 | 01:50:07]
 
 ### Proxy Statistics:
 - _Online Proxies (By Protocol):_
-   - **SOCKS4** -> 2848
-   - **SOCKS5** -> 649
-   - **HTTP** -> 3166
-   - **HTTPS** -> 3363
+   - **SOCKS4** -> 2929
+   - **SOCKS5** -> 668
+   - **HTTP** -> 3321
+   - **HTTPS** -> 3528
 
 - _Proxies (Total):_
-   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 7042
-   - **Unique Online Proxies** -> 7042
-   - **Unique Online/Offline Proxies (Archive)** -> 33151
+   - **Online Proxies (SOCKS4/5 + HTTP/S)** -> 7292
+   - **Unique Online Proxies** -> 7292
+   - **Unique Online/Offline Proxies (Archive)** -> 33157
 
-## [SOCKS4 (2848/7042)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
+## [SOCKS4 (2929/7292)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt)
 ```yaml
-1.2.180.233:4145
+1.4.195.114:4145
 1.4.214.148:5678
 1.9.27.210:4153
 1.9.164.242:35471
-1.9.167.36:60489
 1.10.179.99:4145
 1.20.95.95:5678
 1.20.137.82:32241
@@ -144,6 +143,7 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 1.20.203.178:4145
 1.20.220.79:4145
 1.20.227.66:4145
+1.20.235.153:5678
 1.32.57.85:5678
 1.53.137.84:4145
 1.165.115.34:3629
@@ -156,31 +156,33 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 1.221.173.148:4145
 2.57.131.19:4145
 2.135.223.134:5678
-3.83.141.49:8088
+3.82.60.144:8088
+3.83.234.151:8088
 3.91.157.124:8088
 3.141.13.98:5678
-3.237.224.251:8088
-5.8.240.91:4153
+3.239.186.212:8088
 ```
 
-## [SOCKS5 (649/7042)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
+## [SOCKS5 (668/7292)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt)
 ```yaml
 1.179.220.211:59166
 1.180.0.162:7302
 1.180.49.222:7302
-3.83.141.49:8088
+3.82.60.144:8088
 3.83.166.222:8088
-3.85.219.170:8088
-3.85.244.255:8088
-3.89.137.9:8088
-3.90.69.178:8088
+3.83.234.151:8088
+3.85.184.200:8088
+3.89.57.89:8088
 3.91.157.124:8088
-3.95.212.152:8088
-3.235.181.49:8088
 3.237.253.39:8088
 3.237.253.189:8088
+3.239.186.212:8088
+5.8.18.244:993
 5.9.215.110:9050
+5.128.73.5:1080
+5.135.191.56:56750
 5.181.253.189:59166
+5.189.129.186:23291
 5.189.130.207:46257
 5.189.138.102:59166
 5.189.153.171:18701
@@ -189,83 +191,81 @@ These proxies should work for any application that can establish an HTTP, HTTPS,
 8.211.2.219:41090
 8.219.233.201:48925
 8.222.175.215:80
+13.52.97.39:63999
+14.23.62.59:7300
+15.204.140.137:17516
 18.163.25.217:8080
-18.166.72.199:38080
-18.205.19.148:8088
-18.205.38.192:8088
-18.208.106.245:8088
-23.239.4.85:59166
 ```
 
-## [HTTP (3166/7042)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
+## [HTTP (3321/7292)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt)
 ```yaml
 1.0.170.50:80
 1.0.205.87:8080
 1.1.220.63:8080
-1.1.220.71:8080
 1.1.220.72:8080
 1.4.214.178:8080
 1.4.225.229:8080
 1.9.83.210:1337
 1.10.141.115:8080
+1.20.225.123:8080
 1.85.52.250:9797
 1.179.136.98:8080
 1.179.148.9:36476
 1.193.163.110:10100
 2.58.217.1:8080
-3.95.65.32:9999
-3.95.212.152:8088
+3.20.236.208:49205
 3.215.177.148:49205
-3.235.181.49:8088
+3.223.195.81:9999
+3.239.195.52:9999
 4.16.68.158:443
 5.2.228.168:8888
 5.17.6.83:8080
 5.104.174.199:23500
+5.133.27.222:8080
+5.158.126.16:3128
 5.160.175.226:8383
+5.187.9.10:8080
+5.202.103.100:514
 5.202.191.225:8080
 8.135.48.42:8080
-8.242.176.198:999
-8.242.178.5:999
-8.242.190.116:999
-8.242.207.202:8080
-12.36.95.132:8080
+8.242.172.174:8080
 ```
 
-## [HTTPS (3363/7042)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
+## [HTTPS (3528/7292)](https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-https.txt)
 ```yaml
 1.0.170.50:80
-1.0.171.213:8080
 1.0.205.87:8080
 1.0.209.129:8080
 1.1.220.63:8080
-1.1.220.71:8080
 1.1.220.72:8080
 1.9.83.210:1337
 1.10.141.115:8080
 1.20.169.193:8080
+1.20.225.123:8080
+1.53.252.228:2022
 1.85.52.250:9797
 1.179.136.98:8080
 1.179.148.9:36476
 1.193.163.110:10100
 2.58.217.1:8080
+3.20.236.208:49205
 3.83.166.222:8088
+3.83.182.54:9999
+3.84.204.82:9999
+3.87.92.76:9999
+3.87.143.160:9999
 3.90.225.172:9999
 3.90.234.88:8118
 3.93.183.112:9999
-3.94.169.235:9999
 3.111.55.27:80
 3.215.177.148:49205
-3.237.224.251:8088
+3.223.195.81:9999
 4.16.68.158:443
 5.17.6.83:8080
 5.21.66.94:8080
-5.61.35.147:8118
-5.75.143.44:8080
-5.75.251.229:8080
-5.78.44.6:8080
 ```
 
-## [ARCHIVE (7042/33151)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/proxies.txt)
+## [ARCHIVE (7292/33157)](https://raw.githubusercontent.com/jetkai/proxy-list/main/archive/txt/proxies.txt)
 ```yaml
 1.0.132.249:4153
 1.0.133.89:4153
